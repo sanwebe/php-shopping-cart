@@ -1,4 +1,4 @@
-Shopping Cart with PayPal Express checkout
+Simple Shopping Cart with PHP
 ------------------------------------------
 1. Import "mysql_import.sql" in your MySql PhpMyAdmin to create product table.
 2. Change settings in "config.php" for database.
